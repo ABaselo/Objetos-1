@@ -1043,3 +1043,7 @@
 {"level":"info","message":"⌛ Validating Clase1/2025s2c4-pepita-ABaselo-main/pepita.wlk","timeElapsed":997,"timestamp":"2025-08-19T19:01:40.666Z"}
 {"level":"info","message":"⌛ Validating ProyectoWollok/Ejemplo-Ave/testExample.wtest","timeElapsed":473,"timestamp":"2025-08-19T19:01:41.140Z"}
 {"level":"info","message":"⌛ Validating ProyectoWollok/Ejemplo-Ave/example.wlk","timeElapsed":376,"timestamp":"2025-08-19T19:01:41.516Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":312,"timestamp":"2025-08-19T19:03:37.124Z"}
+{"level":"info","message":"⌛ Validating Clase1/2025s2c4-pepita-ABaselo-main/pepita.wlk","timeElapsed":319,"timestamp":"2025-08-19T19:03:37.446Z"}
+{"level":"info","message":"⌛ Validating ProyectoWollok/Ejemplo-Ave/testExample.wtest","timeElapsed":288,"timestamp":"2025-08-19T19:03:37.740Z"}
+{"level":"info","message":"⌛ Validating ProyectoWollok/Ejemplo-Ave/example.wlk","timeElapsed":275,"timestamp":"2025-08-19T19:03:38.015Z"}
