@@ -9,8 +9,8 @@ object pepita {
   }
 
   //hacer commit
-method moverAlas() {
-  
+method prueba() {
+ //commit prueba 
 }
 
 }
